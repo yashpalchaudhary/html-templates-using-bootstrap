@@ -1,37 +1,60 @@
-# 📚 Bootstrap Learning Progress
+# 🧱 CSS Grid Layout Project
 
-Hello! I'm Yashpal, and this README documents the Bootstrap concepts I have learned so far. I'm building my skills in front-end development using Bootstrap 5.
+## 📌 Project Description
+Yeh project CSS Grid Layout ka use karke banaya gaya hai jisme ek responsive aur modern web layout design kiya gaya hai. CSS Grid ek 2D layout system hai jo rows aur columns dono me content ko organize karne ke liye use hota hai.
 
----
+## 🎯 Objectives
+- CSS Grid ke basic aur advanced properties ka use karna
+- Responsive design banana media queries ke through
+- Reusable layout structure create karna
 
-## ✅ Topics I Have Completed
+## 💻 Technologies Used
+- HTML5
+- CSS3 (CSS Grid Layout)
 
-### 🔹 Breakpoints
-- Learned about **responsive design** using Bootstrap breakpoints.
-- Understood the use of different screen size prefixes like:
-  - `sm` (≥576px)
-  - `md` (≥768px)
-  - `lg` (≥992px)
-  - `xl` (≥1200px)
-  - `xxl` (≥1400px)
+## 🔧 CSS Grid Properties Used
+- `display: grid`
+- `grid-template-columns`
+- `grid-template-rows`
+- `grid-gap` / `gap`
+- `grid-area`
+- `justify-content`, `align-items`
+- `grid-template-areas` (optional)
+- `repeat()`, `minmax()` functions
 
-### 🔹 Columns
-- Learned how to create **responsive column layouts** using Bootstrap classes like:
-  - `col`, `col-4`, `col-md-6`, etc.
-- Practiced column nesting and automatic sizing.
+## 🧩 Layout Features
+- Multi-column responsive layout
+- Gap between items using `gap` 
+- Auto adjustment of items based on screen size
+- Clean and minimalistic UI
 
-### 🔹 Grid
-- Understood the **Bootstrap grid system** based on **12 columns**.
-- Used rows and columns to build flexible and responsive layouts.
+## 📁 Folder Structure
+grid-css-project/
+│
+├── index.html # Main HTML file
+├── style.css # CSS file with Grid layout
+└── README.md # Project documentation
 
-### 🔹 Gutters
-- Learned how to manage **spacing between columns** using gutter classes:
-  - `g-0`, `g-1`, `g-2`, `g-3`, etc.
-- Practiced vertical and horizontal spacing.
+# My Project
 
-### 🔹 Container
-- Learned the use of `.container`, `.container-fluid`, and `.container-xxl`, etc.
-- Used containers to wrap and align content properly.
+This is a demo project of Bootstrap Grid.
 
----
-![My bootstrap example for columns](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-bootstrap/refs/heads/main/SummerHoliday/Screenshot%202025-08-01%20203527.png)
+## 📸 Screenshot
+
+![Grid Example](# My Project
+
+This is a demo project of Bootstrap Grid.
+
+## 📸 This is newPaper template screenshot
+
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-bootstrap/refs/heads/main/SummerHoliday/Screenshot%202025-08-01%20203527.png)
+
+
+## 📸 This is newPaper template screenshot
+
+![Grid Example](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-bootstrap/refs/heads/main/myprofile/Screenshot%202025-08-05%20171448.png)
+
+
+
+
+
