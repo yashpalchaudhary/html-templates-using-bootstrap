@@ -34,4 +34,4 @@ Hello! I'm Yashpal, and this README documents the Bootstrap concepts I have lear
 - Used containers to wrap and align content properly.
 
 ---
-![My bootstrap example for columns](https://raw.githubusercontent.com/yashpalchaudhary/Bootstrap-learning/refs/heads/main/images/Screenshot%202025-07-18%20114753.png)
+![My bootstrap example for columns](https://raw.githubusercontent.com/yashpalchaudhary/html-templates-using-bootstrap/refs/heads/main/SummerHoliday/Screenshot%202025-08-01%20203527.png)
